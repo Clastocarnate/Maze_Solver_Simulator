@@ -3,7 +3,7 @@ import numpy as np
 
 # Define the dimensions of the black image
 width = 800
-height = 800
+height = 801
 
 # Create a black image (all zeros)
 black_image = np.zeros((height, width, 3), dtype=np.uint8)
